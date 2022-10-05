@@ -1,0 +1,8 @@
+name: "mdl-watching-box"
+description: "Github action for update pinned gist to show what you are watching in MyDramaList"
+branding:
+  icon: "clipboard"
+  color: "blue"
+runs:
+  using: "node12"
+  main: "./index.js"

@@ -1,0 +1,17 @@
+{
+  "name": "mdl-watching-box",
+  "version": "1.0.0",
+  "description": "📺 Automatic update pinned gist to show what you're watching in MyDramaList",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facalz/mdl-watching-box.git"
+  },
+  "author": "facalz <facal.git@gmail.com>",
+  "license": "APACHE-2.0",
+  "homepage": "https://github.com/facalz/mdl-watching-box#readme",
+  "dependencies": {
+    "@actions/github": "^5.1.1",
+    "mdl-watching-box": "^1.0.0"
+  }
+}
