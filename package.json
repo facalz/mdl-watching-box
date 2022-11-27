@@ -1,6 +1,6 @@
 {
   "name": "mdl-watching-box",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "📺 Automatic update pinned gist to show what you're watching in MyDramaList",
   "main": "index.js",
   "repository": {
